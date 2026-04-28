@@ -9,7 +9,7 @@ global loader
 section .bss
 align 4
 kernel_stack:
-	reb KERNEL_STACK
+	resb KERNEL_STACK
 
 section .text 
 
