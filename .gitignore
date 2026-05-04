@@ -6,6 +6,12 @@
 *.ko
 *.obj
 *.elf
+*.elf:Zone.Identifier
+*.s~
+*.o:Zone.Identifier
+*.s:Zone.Identifier
+*.s.un~
+*.ld:Zone.Identifier
 
 # Linker output
 *.ilk
